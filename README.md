@@ -12,8 +12,8 @@
 
 A passionate game developer from Russia with 7 years of experience, I started my journey at 11, crafting games from scratch with Pocket Code and now diving deep into the world of Unreal Engine 5. I'm on a mission to bring my creative visions to life at CDPROJEKTRED.
 
-- 🏢 Working at **Littlecloudyfox** in **Russia**
-- 🌱 Currently learning **Exploring advanced techniques in Unreal Engine and honing my skills in 3D character modeling.**
+- 🏢 Working at **Littlecloudyfox** in **Russia.**
+- 🌱 Currently learning **Exploring advanced techniques in Unreal Engine, diving into C++ and honing my skills in 3D character modeling.**
 - 💬 Ask me about **Game development workflows, character rigging, or integrating art with gameplay mechanics.**
 
 ## 🛠️ Tech Stack
