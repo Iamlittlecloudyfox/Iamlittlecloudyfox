@@ -26,7 +26,7 @@ A passionate game developer from Russia with 7 years of experience, I started my
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Iamlittlecloudyfox&theme=holi&animation=draw&duration=1)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Iamlittlecloudyfox&theme=holi&animation=draw&duration=1)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Iamlittlecloudyfox&theme=holi&animation=draw&duration=1)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Iamlittlecloudyfox&theme=holi&animation=draw&duration=1&utcOffset=0)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Iamlittlecloudyfox&theme=holi&animation=draw&duration=1&utcOffset=3)
 
 ## 🔗 Connect with me
 
