@@ -21,12 +21,13 @@ A passionate game developer from Russia with 7 years of experience, I started my
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-333?style=for-the-badge&logo=unrealengine&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-333?style=for-the-badge&logo=blender&logoColor=white) ![ZBrush](https://img.shields.io/badge/ZBrush-333?style=for-the-badge&logo=zbrush&logoColor=white) ![Substance Painter](https://img.shields.io/badge/Substance%20Painter-333?style=for-the-badge&logo=substancepainter&logoColor=white)
 
 ## 📊 GitHub Stats
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iamlittlecloudyfox&theme=holi&animation=draw&duration=1&name=Cloudy)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Iamlittlecloudyfox&theme=holi&animation=draw&duration=1)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Iamlittlecloudyfox&theme=holi&animation=draw&duration=1)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Iamlittlecloudyfox&theme=holi&animation=draw&duration=1)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Iamlittlecloudyfox&theme=holi&animation=draw&duration=1&utcOffset=3)
+<div align="center">
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iamlittlecloudyfox&theme=holi&animation=draw&duration=1&name=Cloudy)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Iamlittlecloudyfox&theme=holi&animation=draw&duration=1)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Iamlittlecloudyfox&theme=holi&animation=draw&duration=1)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Iamlittlecloudyfox&theme=holi&animation=draw&duration=1)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Iamlittlecloudyfox&theme=holi&animation=draw&duration=1&utcOffset=3)
+</div>
 
 ## 🔗 Connect with me
 
