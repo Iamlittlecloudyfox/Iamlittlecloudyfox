@@ -22,13 +22,11 @@ A passionate game developer from Russia with 7 years of experience, I started my
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iamlittlecloudyfox&show_icons=true&theme=transparent)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Iamlittlecloudyfox&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
-
-</div>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iamlittlecloudyfox&theme=holi&animation=draw&duration=1&name=Cloudy)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Iamlittlecloudyfox&theme=holi&animation=draw&duration=1)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Iamlittlecloudyfox&theme=holi&animation=draw&duration=1)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Iamlittlecloudyfox&theme=holi&animation=draw&duration=1)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Iamlittlecloudyfox&theme=holi&animation=draw&duration=1&utcOffset=0)
 
 ## 🔗 Connect with me
 
