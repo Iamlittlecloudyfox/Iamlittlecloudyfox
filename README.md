@@ -18,7 +18,7 @@ A passionate game developer from Russia with 7 years of experience, I started my
 
 ## 🛠️ Tech Stack
 
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-333?style=for-the-badge&logo=unrealengine&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-333?style=for-the-badge&logo=blender&logoColor=white) ![ZBrush](https://img.shields.io/badge/ZBrush-333?style=for-the-badge&logo=zbrush&logoColor=white) ![Substance Painter](https://img.shields.io/badge/Substance%20Painter-333?style=for-the-badge&logo=substancepainter&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-333?style=for-the-badge&logo=unrealengine&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-333?style=for-the-badge&logo=blender&logoColor=white) ![ZBrush](https://img.shields.io/badge/ZBrush-333?style=for-the-badge&logo=zbrush&logoColor=white) ![Substance Painter](https://img.shields.io/badge/Substance%20Painter-333?style=for-the-badge&logo=substancepainter&logoColor=white) ![GAEA](https://img.shields.io/badge/GAEA-333?style=for-the-badge&logo=gaea&logoColor=white)
 
 ## 📊 GitHub Stats
 <div align="center">
