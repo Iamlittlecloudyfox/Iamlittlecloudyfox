@@ -22,11 +22,17 @@ A passionate game developer from Russia with 7 years of experience, I started my
 
 ## 📊 GitHub Stats
 <div align="center">
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iamlittlecloudyfox&theme=holi&animation=draw&duration=1&name=Cloudy)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Iamlittlecloudyfox&theme=holi&animation=draw&duration=1)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Iamlittlecloudyfox&theme=holi&animation=draw&duration=1)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Iamlittlecloudyfox&theme=holi&animation=draw&duration=1)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Iamlittlecloudyfox&theme=holi&animation=draw&duration=1&utcOffset=3)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iamlittlecloudyfox&theme=holi&animation=draw&duration=1&name=Cloudy">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Iamlittlecloudyfox&theme=holi&animation=draw&duration=1">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Iamlittlecloudyfox&theme=holi&animation=draw&duration=1">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Iamlittlecloudyfox&theme=holi&animation=draw&duration=1">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Iamlittlecloudyfox&theme=holi&animation=draw&duration=1&utcOffset=3">
+
 </div>
 
 ## 🔗 Connect with me
