@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="/media/fox.gif" width="585px" height="280px">
+<img src="/media/fox.gif" width="85%" height="85%">
 
 # Hey, I'm Cloudy!
 
