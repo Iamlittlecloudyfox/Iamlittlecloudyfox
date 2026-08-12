@@ -46,5 +46,3 @@ A passionate game developer from Russia with 7 years of experience, I started my
 ## ✍️ Latest Blog Posts
 
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/Littlecloudyfox)
-
-## 💖 Support
