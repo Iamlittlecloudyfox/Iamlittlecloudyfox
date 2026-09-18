@@ -4,7 +4,7 @@
 
 # Hey, I'm Cloudy!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1500&color=73B7FF&center=true&vCenter=true&width=735&lines=Game%20Developer%20%7C%20Future%20Technical%20Artist;Better%20than%20yesterday;Running%20toward%20Dreams;Based%20in%20Russia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1500&color=73B7FF&center=true&vCenter=true&width=735&lines=Game%20Developer%20%7C%20Future%20Technical%20Artist;Better%20than%20yesterday;Running%20toward%20Dreams)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,7 +12,7 @@
 
 A passionate game developer from Russia with 7 years of experience, I started my journey at 11, crafting games from scratch with Pocket Code and now diving deep into the world of Unreal Engine 5. I'm on a mission to bring my creative visions to life at CDPROJEKTRED.
 
-- 🏢 Preparing to become a **student.**
+- 🏢 Student.
 - 🌱 Currently learning **Exploring advanced techniques in Unreal Engine, diving into C++ and honing my skills in 3D character modeling.**
 - 💬 Ask me about **Game development workflows, character rigging, or integrating art with gameplay mechanics.**
 
